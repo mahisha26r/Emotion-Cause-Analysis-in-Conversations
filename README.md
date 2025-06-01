@@ -36,13 +36,16 @@ Course project of CSE556: Natural Language Processing Winter Semester 2024
 
 Authors:
 Mahisha Ramesh
-Shaina Mehta
+
+Shaina Mehta 
+
 Vatsal Lakhmani
 
 
-Contribution of Each Team Member in the Project ):
+Contribution of Each Team Member in the Project :):
 
 Shaina Mehta - Done the problem formulation, performed Emotion Recognition From The Cause Utterances and Candidate Cause Identification and helped write the report.  
+
 Mahisha Ramesh - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
 
 Vatsal Lakhmani - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
