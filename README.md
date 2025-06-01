@@ -32,9 +32,7 @@ Course project of CSE556: Natural Language Processing Winter Semester 2024
 
 [8] https://github.com/tae898/erc.
 
-[9] Taken Reference from NLP Assignment 4 Done by Group 25.
 
-Taken Reference from ChatGPT.
 
 Authors:
 Mahisha Ramesh
@@ -42,10 +40,11 @@ Shaina Mehta
 Vatsal Lakhmani
 
 
-Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
+Contribution of Each Team Member in the Project ):
 
 Shaina Mehta - Done the problem formulation, performed Emotion Recognition From The Cause Utterances and Candidate Cause Identification and helped write the report.  
 Mahisha Ramesh - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
+
 Vatsal Lakhmani - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
 
 
