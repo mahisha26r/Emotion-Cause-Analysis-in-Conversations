@@ -10,17 +10,6 @@ Course project of CSE556: Natural Language Processing Winter Semester 2024
 ## About The Project:
 ### This project aims to create a deep-learning model for emotion recognition in conversation (ERC), identifying emotion from the cause utterance in conversation and Cause pair identification in the conversations of textual data. This method will help different researchers create better AI-based conversational systems in the future.
 
-## Note: 
-
-### Link for Anonymous Version of report: https://docs.google.com/document/d/1Hy-q7of7oi2sVFUZh0kX9ZWTiLlc-t4Yxt3PpDBWbIw/edit?usp=sharing, https://github.com/shaina-12/NLP-Project---Group-25/blob/main/anonymous_25_report.pdf
-
-### The Link For Model's Weights: https://drive.google.com/drive/folders/1z-dG-DWwF0Y5TJp1ibbJaZXo8du7e_yi?usp=sharing
-
-### The Links of Project's Poster PPT: https://drive.google.com/drive/folders/1z-dG-DWwF0Y5TJp1ibbJaZXo8du7e_yi?usp=sharing, https://github.com/shaina-12/NLP-Project---Group-25/blob/main/25_Poster.pptx
-
-### The final project report (submitted in Gooogle Classroom): https://github.com/shaina-12/NLP-Project---Group-25/blob/main/25_Project_Report.pdf
-
-### The Link of Github Repository: https://github.com/shaina-12/NLP-Project---Group-25.git
 
 ## Acknowledgement:
 ### Unsung Heros of Stack Overflow, Github, Medium Blogs, HuggingFace Tutorials, Towards Data Science Web Blogs, Kaggle Notebooks, YouTube videos, Research papers, etc.
