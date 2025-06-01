@@ -40,14 +40,13 @@ Authors:
 Mahisha Ramesh
 Shaina Mehta
 Vatsal Lakhmani
-Mayank Jha
+
 
 Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
+
 Shaina Mehta - Done the problem formulation, performed Emotion Recognition From The Cause Utterances and Candidate Cause Identification and helped write the report.  
 Mahisha Ramesh - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
 Vatsal Lakhmani - Done the problem formulation, performed the Emotion Recognition in Conversation Task and helped in report writing and poster making.
-Mayank Jha - Contribution has yet to be known since there was no contact with him during the final submission days.
 
-Note: Due to some circumstances, all the files submitted by other team members has to be submitted by me (Shaina Mehta).
 
-The final updated project Report Links (not submitted on GC): https://github.com/shaina-12/NLP-Project---Group-25/blob/main/25_Project_Report_Updated.pdf, https://docs.google.com/document/d/1BwOsAD_W6piNjv9Z83tOh9gvnI3r0lEQ4hIVQzAIBak/edit
+
